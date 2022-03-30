@@ -7,3 +7,7 @@
 <img width="" height="" src="./pic/화면 캡처 2022-03-22 125048.png">
 <img width="" height="" src="./pic/화면 캡처 2022-03-22 125135.png">
 <img width="" height="" src="./pic/화면 캡처 2022-03-22 125217.png">
+
+# 4주차(2022-03-29)
+- 학번과 이름 나타나게 버튼으로 실습함.
+<img width="" height="" src="./pic/4st.png">
