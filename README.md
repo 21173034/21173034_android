@@ -16,3 +16,7 @@
 - 레이아웃을 이용한 이미지 바꾸기 실습함.
 <img width="" height="" src="./pic/5st_1.png">
 <img width="" height="" src="./pic/5st_2.png">
+> 소스 화면
+<img width="" height="" src="./pic/5st_3.png">
+<img width="" height="" src="./pic/5st_4.png">
+<img width="" height="" src="./pic/5st_5.png">
