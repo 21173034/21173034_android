@@ -11,3 +11,8 @@
 # 4주차(2022-03-29)
 - 학번과 이름 나타나게 버튼으로 실습함.
 <img width="" height="" src="./pic/4st.png">
+
+# 5주차(2022-04-06)
+- 레이아웃을 이용한 이미지 바꾸기 실습함.
+<img width="" height="" src="./pic/5st_1.png">
+<img width="" height="" src="./pic/5st_2.png">
