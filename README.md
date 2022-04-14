@@ -20,3 +20,16 @@
 <img width="" height="" src="./pic/5st_3.png">
 <img width="" height="" src="./pic/5st_4.png">
 <img width="" height="" src="./pic/5st_5.png">
+
+# 6주차(2022-04-12)
+- 지난주의 이미지 바꾸기에 스크롤뷰를 추가함.
+  -시작 화면
+<img width="" height="" src="./pic/6st_1.png">
+    -image01의 높이, 넓이
+<img width="" height="" src="./pic/6st_2.png">
+<img width="" height="" src="./pic/6st_3.png">
+    -image01의 스크롤뷰
+<img width="" height="" src="./pic/6st_4.png">
+   -image02의 높이, 넓이
+<img width="" height="" src="./pic/6st_5.png">
+<img width="" height="" src="./pic/6st_6.png">
