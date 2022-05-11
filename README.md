@@ -34,3 +34,13 @@
    -image02의 높이, 넓이
 <img width="" height="" src="./pic/6st_5.png">
 <img width="" height="" src="./pic/6st_6.png">
+
+
+
+
+# 10주차(2022-05-10)
+- 여러 화면 만들고 전환하기
+<img width="" height="" src="./pic/10st.png">
+<img width="" height="" src="./pic/10st_1.png">
+<img width="" height="" src="./pic/10st_2.png">
+<img width="" height="" src="./pic/10st_3.png">
